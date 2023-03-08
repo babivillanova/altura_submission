@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "NFT 1",
+    "description": "Description of NFT 1",
+    "owner": "0x1234567890123456789012345678901234567890",
+    "image": "https://picsum.photos/260/300",
+    "address": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "id": 2,
+    "name": "NFT 2",
+    "description": "Description of NFT 2",
+    "owner": "0x2345678901234567890123456789012345678901",
+    "image": "https://picsum.photos/260/300",
+    "address": "0x1111111111111111111111111111111111111111"
+  },
+  {
+    "id": 3,
+    "name": "NFT 3",
+    "description": "Description of NFT 3",
+    "owner": "0x3456789012345678901234567890123456789012",
+    "image": "https://picsum.photos/260/300",
+    "address": "0x2222222222222222222222222222222222222222"
+  }
+]
